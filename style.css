@@ -64,6 +64,9 @@ body {
   padding: 2rem;
 }
 
+input#i-email {
+border-radius: 0px;border: none;height: 42px;min-width: 250px;}
+
 
 /*
  * Header
